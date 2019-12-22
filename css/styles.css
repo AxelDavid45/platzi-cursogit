@@ -14,7 +14,7 @@ body {
     display: flex;
     align-items: center;
     padding: 1.2rem;
-    background: rgb(195, 203, 211);
+    background: deeppink;
     -webkit-box-shadow: 6px 7px 50px -13px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 6px 7px 50px -13px rgba(0, 0, 0, 0.75);
     box-shadow: 6px 7px 50px -13px rgba(0, 0, 0, 0.75)

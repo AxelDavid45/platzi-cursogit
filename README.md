@@ -1,2 +1,2 @@
-# platzii-cursoggit
-Only educational purposes
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
